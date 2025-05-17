@@ -4,7 +4,7 @@ import numpy as np
 from skimage.metrics import structural_similarity as ssim
 import matplotlib.pyplot as plt
 
-st.title("🖌️ أداة تصحيح رسم الطالب تلقائيًا")
+st.title("🖌️ نشاط الرسم ")
 
 st.write("### خطوات الاستخدام:")
 st.markdown("""
